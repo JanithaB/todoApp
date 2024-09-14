@@ -1,0 +1,11 @@
+@import "../../vars.css";
+
+.title {
+    position: relative;
+    text-align: center;
+    
+}
+
+.the {
+    font-family: var(--font-secondary);
+}

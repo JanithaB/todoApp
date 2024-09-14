@@ -1,0 +1,41 @@
+@import "../../vars.css";
+
+.form {
+    display: flex;
+    background: var(--color-cool);
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    padding: 10px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+.formfill {
+    background-color: aliceblue;
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    margin-right: 10px;
+    outline: none;
+    font-size: 16px;
+}
+
+.button {
+    
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    outline: none;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: var(--color-bright);
+}

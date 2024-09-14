@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+:root {
+    /* colors*/
+    --color-text: #f1faee;
+    --color-primary: #457b9d;
+    --color-secondary: #1d3557;
+    --color-cool: #a8dadc;
+    --color-bright: #e63946;
+
+    /* font */
+    --font-primary: 'Anaheim', sans-serif;
+    --font-secondary: 'Allura', sans-serif;
+}
